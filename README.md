@@ -68,3 +68,38 @@ Although 66% may seem modest, the result is promising given the limited and clea
 
 ---
 
+## How to Run This Project
+
+### 1. Clone the Repository
+'''bash
+git clone https://github.com/LaxmiSowjanya/heart-attack-prediction.git
+cd heart-attack-prediction
+
+### 2. Setup the environment with required python libraries (refer 'Dependencies' in the below)
+
+### 3. Run it in your environment 
+'''Jupyter Notebook
+jupyter notebook heart_attack_prediction.ipynb
+
+---
+
+
+### Dependencies
+
+Python 3.9+
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
+imbalanced-learn
+
+jupyter (optional)
+
+---
