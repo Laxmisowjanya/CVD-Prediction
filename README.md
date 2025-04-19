@@ -103,3 +103,13 @@ imbalanced-learn
 jupyter (optional)
 
 ---
+
+
+## 📄 Project Files
+
+- [Jupyter Notebook (Main Code)](heart_attack_prediction.ipynb)
+- [Final Report](final_report.pdf)
+- [Project Poster](poster/project_poster.pdf)
+
+
+---
