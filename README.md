@@ -105,11 +105,3 @@ jupyter (optional)
 ---
 
 
-## 📄 Project Files
-
-- [Jupyter Notebook](https://github.com/LaxmiSowjanya/heart-attack-prediction/blob/main/heart_attack_prediction.ipynb)
-- [Final Report](https://github.com/LaxmiSowjanya/heart-attack-prediction/blob/main/final_report.pdf)
-- [Poster](https://github.com/LaxmiSowjanya/heart-attack-prediction/blob/main/poster/project_poster.pdf)
-
-
----
